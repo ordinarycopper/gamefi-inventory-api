@@ -1,7 +1,4 @@
 # gamefi-inventory-api
-Simulated blockchain-based game inventory API using Node.js and Express. Built by @ordinarycopper.
-
-# gamefi-inventory-api
 
 A lightweight Web3-inspired game inventory API built with Node.js and Express.  
 Simulates wallet-based item ownership for blockchain-integrated games.
